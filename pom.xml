@@ -55,9 +55,11 @@
 		    <artifactId>jaxb-api</artifactId>
 		</dependency>
 		
+		<!-- https://mvnrepository.com/artifact/javax.activation/javax.activation-api -->
 		<dependency>
-			<groupId>jakarta.activation</groupId>
-			<artifactId>jakarta.activation-api</artifactId>
+		    <groupId>javax.activation</groupId>
+		    <artifactId>javax.activation-api</artifactId>
+		    <version>1.2.0</version>
 		</dependency>
 
 	</dependencies>
